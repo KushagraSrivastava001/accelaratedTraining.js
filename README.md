@@ -1,2 +1,1 @@
-# accelaratedTraining.js
-contains all basic and intermediate knowledge for a js developer///
+repo contains js code for beginners and intermediate devs.
